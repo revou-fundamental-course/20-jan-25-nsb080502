@@ -36,6 +36,7 @@ button {
   border: none;
   padding: 8px;
   color: antiquewhite;
+  background-color: black;
 }
 
 .bg-black {
@@ -55,4 +56,8 @@ button {
 #result-bmi {
   font-size: xxx-large;
   font-family: math;
+}
+
+{
+  text-align: center;
 }

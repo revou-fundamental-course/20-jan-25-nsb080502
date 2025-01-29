@@ -14,14 +14,14 @@ footer {
   text-align: center;
 }
 
-input[type=number] {
+input[type="number"] {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
   box-sizing: border-box;
 }
 
-form{
+form {
   background-color: antiquewhite;
   padding: 32px;
 }
@@ -46,7 +46,7 @@ button {
   background-color: cadetblue;
 }
 
-.result-section{
+.result-section {s
   padding: 16px;
   text-align: center;
   background-color: antiquewhite;
